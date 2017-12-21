@@ -8,6 +8,6 @@ Made in C# using Windows Forms with Metro UI.
 
 ![Imgur](https://i.imgur.com/hmkd7wK.jpg)
 
-![Imgur](https://i.imgur.com/ugfdB33.gifv)
+![Imgur](https://i.imgur.com/ugfdB33.gif)
 
 *To run this project you will need to install Microsoft Visual Basic Power Packs*
